@@ -1,27 +1,16 @@
 ## 友情链接
-# name:         标题
+# name:         文字/标题
 # link:         链接路径，无链接为空即可
 #
-- name: 华清巨成
-  link: https://45nan.com
+- name: Acorn
+  link: https://acorn.imaging.xin/
 
-- name: 数学家
-  link: https://zhwangart.com
+- name: Hexo
+  link: https://hexo.io/
 
-- name: 黄胄
-  link: https://huangzhou.art
-
-- name: 新橙象
-  link: https://imaging.xin
+- name: GitHub
+  link: https://github.com
 
 - name: To Base64
   link: https://duoyu.wang
 
-- name: Bootstrap 中文网
-  link: https://bootcss.com
-
-- name: Apple Design Resources
-  link: https://developer.apple.com/design/resources/
-
-- name: Adobe Zii
-  link: https://adobezii.com

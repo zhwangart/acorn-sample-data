@@ -1,5 +1,10 @@
-## 项目案例
-#
+## 画廊
+# name:         标题
+# en_name:      英文标题
+# description:  描述内容
+# cover:        封面图片路径
+# link:         链接路径，无链接为空即可
+# preview:      预览路径，无则可以为空
 #
 - name: 橡子
   en_name: Acorn

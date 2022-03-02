@@ -2,7 +2,6 @@
 # name:         客户名称
 # cover:        客户 LOGO 路径
 #
-
 - name: LOGO
   cover: /images/brand.svg
 

@@ -1,6 +1,7 @@
 ## 客户称赞
-# name:         客户名称
-# said:         客户的称赞内容
+# number:   ID 不可为空，从 0 开始
+# name:     客户名称
+# words:    客户的称赞内容
 #
 - number: 0
   name: 王勃，唐
