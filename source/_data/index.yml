@@ -1,0 +1,48 @@
+## Index Section
+# name:         客户名称
+# title:        大标题
+# subtitle:     小标题，描述性
+#
+- name: album
+  title: 画廊
+  subtitle: 只需要改变 2 个颜色就会让你的站点焕然一新
+  partial: album
+  bg_color: 
+  fluid: 
+  more: 
+
+- name: customers
+  title: 客户
+  subtitle: 我们的客户来自世界上最好的公司
+  partials: [instapic, quotation]
+  bg_color: 
+  fluid: 
+  more: 
+
+- name: stories
+  title: 案例
+  subtitle: 实践见真知既是最好的解释
+  partial: page/stories
+  bg_color: bg-light
+  fluid: 
+  more: 
+
+- name: archive
+  title: 新闻
+  subtitle: 汇聚热点话题 打造创新思路
+  partial: archive
+  bg_color: 
+  fluid: 
+  more: /archives/
+
+# - name: solution
+#   title: 解决方案
+#   subtitle: 品质源于专业 服务彰显真诚
+#   partial: solution
+#   bg_color: 
+
+# - name: pricing
+#   title: 定制计划
+#   subtitle: 我们提供针对个人和团队的定制计划
+#   partial: pricing
+#   bg_color: 

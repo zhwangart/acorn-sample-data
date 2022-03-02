@@ -1,0 +1,28 @@
+## 企业文化
+# name:         标题
+# en_name:      英文标题
+# description:  描述内容
+# cover:        封面图片路径
+# cover_size:   封面图片大小
+# link:         链接路径，无链接为空即可
+#
+- name: 企业文化
+  en_name: 
+  description: 潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。
+  cover: /images/culture/icon_1.svg
+  cover_size: 64
+  link:
+
+- name: 企业文化
+  en_name: 
+  description: 潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。
+  cover: /images/culture/icon_2.svg
+  cover_size: 64
+  link:
+
+- name: 企业文化
+  en_name: 
+  description: 潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。
+  cover: /images/culture/icon_3.svg
+  cover_size: 64
+  link:

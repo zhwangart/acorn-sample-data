@@ -1,0 +1,28 @@
+## 项目案例
+# name:         标题
+# en_name:      英文标题
+# description:  描述内容
+# cover:        封面图片路径
+# link:         链接路径，无链接为空即可
+# preview:      预览路径，无则可以为空
+#
+- name: 滕王阁序
+  en_name: 
+  description: 豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。
+  cover: /images/sample/mydesk.png
+  link: /2012/12/21/tengwanggexu/
+  preview: 
+
+- name: 滕王阁序
+  en_name: 
+  description: 豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。
+  cover: /images/sample/mydesk.png
+  link: /2012/12/21/tengwanggexu/
+  preview: 
+
+- name: 滕王阁序
+  en_name: 
+  description: 豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。
+  cover: /images/sample/mydesk.png
+  link: /2012/12/21/tengwanggexu/
+  preview: 

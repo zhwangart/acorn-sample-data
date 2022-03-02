@@ -1,0 +1,20 @@
+## 联系方式
+# name:         联系方式名称
+# en_name:      英文
+# icon:         图标路径，不使用图标为空即可
+# link:         链接路径，无链接为空即可
+#
+- name: 微博
+  en_name: weibo
+  icon: /images/icons/contact_weibo.svg
+  link: https://zhwangart.com
+
+- name: 微信
+  en_name: wechat
+  icon: /images/icons/contact_wechat.svg
+  link: javascript:;
+
+- name: 邮箱
+  en_name: e-mail
+  icon: /images/icons/contact_email.svg
+  link: mailto:a@abc.com

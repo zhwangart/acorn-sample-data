@@ -1,0 +1,49 @@
+## 专辑
+# name:         标题
+# en_name:      英文标题
+# description:  描述内容
+# cover:        封面图片路径
+# link:         链接路径，无链接为空即可
+# preview:      预览路径，无则可以为空
+#
+- name: 中文标题一
+  en_name: ENGLISH TITLE 1
+  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
+  cover: /images/sample/mydesk.png
+  link: 
+  preview: 
+
+- name: 中文标题二
+  en_name: ENGLISH TITLE 2
+  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
+  cover: /images/sample/mydesk.png
+  link: 
+  preview: 
+
+- name: 中文标题三
+  en_name: ENGLISH TITLE 3
+  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
+  cover: /images/sample/mydesk.png
+  link: 
+  preview: 
+
+- name: 中文标题四
+  en_name: ENGLISH TITLE 4
+  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
+  cover: /images/sample/mydesk.png
+  link: 
+  preview: 
+
+- name: 中文标题五
+  en_name: ENGLISH TITLE 5
+  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
+  cover: /images/sample/mydesk.png
+  link: 
+  preview: 
+
+- name: 中文标题六
+  en_name: ENGLISH TITLE 6
+  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
+  cover: /images/sample/mydesk.png
+  link: 
+  preview: 
