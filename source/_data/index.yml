@@ -4,6 +4,7 @@
 # subtitle:     小标题，描述性
 #
 - name: album
+  id: 
   title: 画廊
   subtitle: 只需要改变 2 个颜色就会让你的站点焕然一新
   partial: album
@@ -12,6 +13,7 @@
   more: 
 
 - name: customers
+  id: 
   title: 客户
   subtitle: 我们的客户来自世界上最好的公司
   partials: [instapic, quotation]
@@ -20,6 +22,7 @@
   more: 
 
 - name: stories
+  id: 
   title: 案例
   subtitle: 实践见真知既是最好的解释
   partial: page/stories
@@ -28,6 +31,7 @@
   more: 
 
 - name: archive
+  id: 
   title: 新闻
   subtitle: 汇聚热点话题 打造创新思路
   partial: archive
@@ -36,12 +40,14 @@
   more: /archives/
 
 # - name: solution
+#   id: 
 #   title: 解决方案
 #   subtitle: 品质源于专业 服务彰显真诚
 #   partial: solution
 #   bg_color: 
 
 # - name: pricing
+#   id: 
 #   title: 定制计划
 #   subtitle: 我们提供针对个人和团队的定制计划
 #   partial: pricing
